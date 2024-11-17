@@ -1,0 +1,7 @@
+# Default hub server name
+default-server: "lobby"
+
+# Messages
+messages:
+  connecting: "§aConnecting to hub..."
+  error: "§cCould not connect to hub!"

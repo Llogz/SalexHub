@@ -1,0 +1,14 @@
+name: SalexHub
+version: '${version}'
+main: jar.llogzz.salexhub.SalexHub
+api-version: '1.16'
+author: 'llogzz'
+description: 'SalexHub - Compatible with 1.16.5 to 1.21.4'
+
+commands:
+  hub:
+    description: Teleport to hub server
+    aliases: [salexhub]
+  lobby:
+    description: Teleport to hub server
+    aliases: [salexlobby]
